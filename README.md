@@ -1131,6 +1131,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [facebook](https://clawskills.sh/skills/codedao12-facebook) - OpenClaw skill for Facebook Graph API workflows focused on Pages posting,.
 - [feelgoodbot](https://clawskills.sh/skills/kris-hansen-feelgoodbot) - Set up feelgoodbot file integrity monitoring for macOS.
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
+- [trentclaw](https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md) - Finds chained attack paths across config, secrets, and permissions.
 
 > **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
